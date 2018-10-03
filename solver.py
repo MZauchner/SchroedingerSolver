@@ -18,7 +18,7 @@ def potential(grid, func):
 def timegrid(max, spacing):
     timegrid = np.arange(0, max, spacing)
     return timegrid
-huhj
+
 def solver(psi_0, V):
     h_bar=1
     m=1
